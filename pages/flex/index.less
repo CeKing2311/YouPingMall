@@ -1,0 +1,19 @@
+.flex_container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+    .flex_item{
+        justify-content: center;
+        align-items: center;
+        width: 32%;
+        height: 200rpx;
+        background-color: aqua;
+        margin: 5rpx;        
+        flex: 1;
+        &:nth-child(1){
+            flex: 2;
+        }
+    }
+    
+}

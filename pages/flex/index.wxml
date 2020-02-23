@@ -1,0 +1,22 @@
+<view class="flex_container">
+   <view class="flex_item">1</view>
+    <view class="flex_item">2</view>
+    <view class="flex_item">3</view>
+    <view class="flex_item">4</view>
+    <view class="flex_item">5</view>
+    <view class="flex_item">6</view>
+    <view class="flex_item">7</view>
+    <view class="flex_item">8</view>
+    <view class="flex_item">9</view>
+    <view class="flex_item">10</view>
+    <view class="flex_item">11</view>
+    <view class="flex_item">12</view>
+    <view class="flex_item">13</view>
+    <view class="flex_item">14</view>
+    <view class="flex_item">15</view>
+    <view class="flex_item">16</view>
+    <view class="flex_item">17</view>
+    <view class="flex_item">18</view>
+    <view class="flex_item">19</view>
+    <view class="flex_item">20</view>    
+</view>
